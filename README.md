@@ -1,0 +1,2 @@
+# AI
+about ai applications
